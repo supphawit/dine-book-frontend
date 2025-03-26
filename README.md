@@ -3,6 +3,8 @@
 ## Overview
 DineBook Frontend is a small personal project I developed—a web application for restaurant table reservations. It’s built with Next.js 15 and TypeScript, styled using Tailwind CSS for a responsive design, and utilizes `useContext` for global state management. The app offers user authentication, table booking, profile management, food reviews, and menu search capabilities.
 
+> **Note**: This is the frontend part of the application and needs to be used in conjunction with the [dine-book-backend](https://github.com/supphawit/dine-book-backend) repository.
+
 ## Features
 - **Login & Registration**: Secure user sign-up and sign-in.
 - **Table Booking**: Simple system to reserve restaurant tables.
